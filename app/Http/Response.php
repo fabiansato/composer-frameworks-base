@@ -1,0 +1,2 @@
+<?php
+# Maneja las respuestas
